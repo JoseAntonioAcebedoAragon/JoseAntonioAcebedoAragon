@@ -25,7 +25,7 @@ Feel free to explore my repositories and get in touch if you're interested in co
 
 <p align="center">
   <a href="https://github.com/JoseAntonioAcebedoAragon">
-    <img height="176em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseAntonioAcebedoAragon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="177em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseAntonioAcebedoAragon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseAntonioAcebedoAragon&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
