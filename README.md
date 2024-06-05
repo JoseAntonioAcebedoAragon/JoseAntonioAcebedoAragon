@@ -22,16 +22,14 @@
 Feel free to explore my repositories and get in touch if you're interested in collaborating on any projects!
 <br>
 
-### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-pzp7zgylk.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/846c87eb84284d99b312d23b08c59273)
+## Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=joseesteponense-3&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=32a852&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-
-<br>
-### ⚙️ &nbsp;GitHub Analytics
+## GitHub Analytics ⚙️
 
 <p align="center">
   <a href="https://github.com/JoseAntonioAcebedoAragon">
-    <img height="177em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseAntonioAcebedoAragon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseAntonioAcebedoAragon&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseAntonioAcebedoAragon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseAntonioAcebedoAragon&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
