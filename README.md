@@ -22,7 +22,7 @@
 Feel free to explore my repositories and get in touch if you're interested in collaborating on any projects!
 
 ## Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=joseesteponense-3&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=32a852&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=joseesteponense-3&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=32a852&bar_color_cover=false)](https://open.spotify.com/user/joseesteponense-3)
 
 ## GitHub Analytics ⚙️
 
