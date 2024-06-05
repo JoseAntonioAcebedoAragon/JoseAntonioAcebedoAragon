@@ -23,7 +23,7 @@ Feel free to explore my repositories and get in touch if you're interested in co
 <br>
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-joseantonioacebedoaragons-projects.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/846c87eb84284d99b312d23b08c59273)
+[<img src="https://spotify-now-playing-joseantonioacebedoaragons-projects.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/joseesteponense-3)
 
 <br>
 ### ⚙️ &nbsp;GitHub Analytics
