@@ -6,16 +6,16 @@
 **JoseAntonioAcebedoAragon/JoseAntonioAcebedoAragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://i.ibb.co/H7WBbN9/Sin-t-tulo.png">
 
 ## Sobre mi
 
-- 🌐 Mobile developer
+- 🌐 Web developer
 - 🌱 I’m currently learning **Spring Boot, PHP, JavaScript, RabbitMQ, and the Slim framework**
 - 👯 I’m looking to collaborate on **innovative web applications**
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, PHP, RabbitMQ, Slim, MySQL**
 - 📫 How to reach me: **j.acebedo05@gmail.com** or connect with me on [LinkedIn](https://es.linkedin.com/in/jos%C3%A9-antonio-acebedo-arag%C3%B3n-5a164523a).
-- 🌐 Visit my website: [Jacebedo.com](https://joseantonioacebedoaragon.github.io/Curriculum/)
+- 🌐 Visit my CV: [Jacebedo.com](https://joseantonioacebedoaragon.github.io/Curriculum/)
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I enjoy experimenting by creating my own websites**
 Feel free to explore my repositories and get in touch if you're interested in collaborating on any projects!
