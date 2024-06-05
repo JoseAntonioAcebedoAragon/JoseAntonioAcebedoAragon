@@ -6,7 +6,7 @@
 **JoseAntonioAcebedoAragon/JoseAntonioAcebedoAragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://i.ibb.co/H7WBbN9/Sin-t-tulo.png">
+<img src="https://i.ibb.co/PZDzfkv/Sin-t-tulo.png">
 
 ## About me
 
