@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://joseantonioacebedoaragon.github.io/Curriculum">José Antonio Acebedo Aragón</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://joseantonioacebedoaragon.github.io/Curriculum">José Antonio Acebedo Aragón</a> 👋</h1>
 </div>
 
 <!--
@@ -8,7 +8,7 @@
 
 <img src="https://i.ibb.co/H7WBbN9/Sin-t-tulo.png">
 
-## Sobre mi
+## About me
 
 - 🌐 Web developer.
 - 🌱 I’m currently learning **Spring Boot, PHP, JavaScript, RabbitMQ, and the Slim framework**.
@@ -18,6 +18,7 @@
 - 🌐 Visit my CV: [Jacebedo.com](https://joseantonioacebedoaragon.github.io/Curriculum/).
 - 😄 Pronouns: **he/him**.
 - ⚡ Fun fact: **I enjoy experimenting by creating my own websites**.
+<br>
 Feel free to explore my repositories and get in touch if you're interested in collaborating on any projects!
 <br>
 
