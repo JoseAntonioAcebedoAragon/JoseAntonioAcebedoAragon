@@ -23,7 +23,8 @@ Feel free to explore my repositories and get in touch if you're interested in co
 <br>
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://spotify-now-playing-pzp7zgylk.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/846c87eb84284d99b312d23b08c59273)
+
 
 <br>
 ### ⚙️ &nbsp;GitHub Analytics
