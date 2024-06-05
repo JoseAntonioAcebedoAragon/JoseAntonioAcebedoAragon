@@ -1,18 +1,23 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">José Antonio Acebedo Aragón</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
-<!--
-**JoseAntonioAcebedoAragon/JoseAntonioAcebedoAragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Sobre mi
 
-I'm Jose Antonio Acebedo Aragon, and this is my GitHub profile.
+- ⭐ Github Star ⭐ 
+- 📲 Mobile developer
+- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
+- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
+- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
+- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+<br>
 
-### About Me
-- 🔭 I’m currently doing my internship at **IDB Mobile**
-- 🌱 I’m currently learning **Spring Boot, PHP, JavaScript, RabbitMQ, and the Slim framework**
-- 👯 I’m looking to collaborate on **open-source projects and innovative web applications**
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, PHP, RabbitMQ, Slim, MySQL**
-- 📫 How to reach me: **j.acebedo05@gmail.com** or connect with me on [https://es.linkedin.com/in/jos%C3%A9-antonio-acebedo-arag%C3%B3n-5a164523a]
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I enjoy experimenting by creating my own websites**
+### ⚙️ &nbsp;GitHub Analytics
 
-Feel free to explore my repositories and get in touch if you're interested in collaborating on any projects!
+<p align="center">
+<a href="https://github.com/JoseAntonioAcebedoAragon">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseAntonioAcebedoAragon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseAntonioAcebedoAragon&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
